@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 📫 How to reach me: yy84869@gmail.com
-- 🌱 I’m currently learning Vulkan and OPENGL-ES.
+- 🌱 I’m currently learning Vulkan and OPENGL-ES and onnx runtime.
 - ⚡ **Fun fact:** I’m not scared of losing 100 times to get 1 win — I’m scared of stopping at 99.
 
 ## 🚀 Projects in Progress
