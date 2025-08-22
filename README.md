@@ -23,14 +23,21 @@ Here are some ideas to get you started:
 
 > Building the toolbox that actually belongs in the future — GPU-first, native performance, no bloat.
 
-- [ ] **Hand Gesture Calculator**  
+- [ ] ~~**Hand Gesture Calculator**~~  
+~~MediaPipe + OpenGL ES~~
+  - ~~Real-time hand landmark detection with MediaPipe~~  
+  - ~~Custom GLSL shaders for UI overlay and gesture visualization~~  
+  - ~~Gesture-based number entry and arithmetic controls~~  
+  - ~~GPU-first pipeline for ultra-low latency and battery-friendly performance~~
+
+- [ ] **Flappy Bird Game (Hand-Controlled) Android**  
   _MediaPipe + OpenGL ES_  
   - Real-time hand landmark detection with MediaPipe  
-  - Custom GLSL shaders for UI overlay and gesture visualization  
-  - Gesture-based number entry and arithmetic controls  
-  - GPU-first pipeline for ultra-low latency and battery-friendly performance
+  - Custom GLSL shaders for game rendering and gesture-based input  
+  - Hand gesture controls for bird flapping and navigation  
+  - GPU-first pipeline for ultra-low latency and battery-friendly performance  
 
-- [ ] **GIF Encoder (NDK)**  
+- [ ] **GIF Encoder (NDK) Android**  
   _C++ / Android NDK_  
   - High-performance GIF encoding in native C++  
   - Asynchronous buffer writing for non-blocking UI and stable FPS  
