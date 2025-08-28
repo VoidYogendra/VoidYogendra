@@ -31,7 +31,8 @@ Here are some ideas to get you started:
   - ~~GPU-first pipeline for ultra-low latency and battery-friendly performance~~
 
 - [ ] **Flappy Bird Game (Hand-Controlled) Android**  
-  _MediaPipe + OpenGL ES_  
+  _MediaPipe + OpenGL ES_
+  - GJK Collision Detection
   - Real-time hand landmark detection with MediaPipe  
   - Custom GLSL shaders for game rendering and gesture-based input  
   - Hand gesture controls for bird flapping and navigation  
