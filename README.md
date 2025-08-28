@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - [ ] **Flappy Bird Game (Hand-Controlled) Android**  
   _MediaPipe + OpenGL ES_
-  - GJK Collision Detection
+  - GJK or SAT Collision Detection
   - Real-time hand landmark detection with MediaPipe  
   - Custom GLSL shaders for game rendering and gesture-based input  
   - Hand gesture controls for bird flapping and navigation  
