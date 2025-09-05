@@ -57,3 +57,5 @@ Here are some ideas to get you started:
   - Convert free-form text into realistic facial expressions and timing  
   - emotion → drives 3D rigs  
   - Real-time lip-sync + expression blending for interactive avatars and VTubing
+
+- [ ] **On device Game Upscaler for edge-devices**  
