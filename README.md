@@ -30,12 +30,12 @@ Here are some ideas to get you started:
   - ~~Gesture-based number entry and arithmetic controls~~  
   - ~~GPU-first pipeline for ultra-low latency and battery-friendly performance~~
 
-- [ ] **Flappy Bird Game (Hand-Controlled) Android**  
+- [ ] **Ping Pong Game (Hand-Controlled) Android**  
   _MediaPipe + OpenGL ES_
   - GJK or SAT Collision Detection
   - Real-time hand landmark detection with MediaPipe  
   - Custom GLSL shaders for game rendering and gesture-based input  
-  - Hand gesture controls for bird flapping and navigation  
+  - Hand gesture controls for Ping Pong Block moving
   - GPU-first pipeline for ultra-low latency and battery-friendly performance  
 
 - [ ] **GIF Encoder (NDK) Android**  
